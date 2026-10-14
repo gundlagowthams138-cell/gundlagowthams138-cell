@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Sai Goutham 👋
 
-<!--
-**gundlagowthams138-cell/gundlagowthams138-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student at Kalvium  
+💻 Aspiring Software Developer  
+🌱 Currently learning Python, JavaScript, React, and Data Structures & Algorithms.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Interested in software development and problem-solving.
+- Building projects to improve my practical coding skills.
+- Practicing coding challenges on LeetCode.
+- Working towards internship and placement opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** Python, JavaScript
+- **Frontend:** HTML, CSS, React
+- **Tools:** Git, GitHub, VS Code
+- **Problem Solving:** Data Structures & Algorithms
+
+## 📂 Projects
+- **SkyFetch Weather Dashboard** — A weather dashboard with city search and asynchronous API requests.
+- More projects coming soon!
+
+## 🔗 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/gundla-sai-goutham-4b7480383/
+- GitHub: https://github.com/gundlagowthams138-cell
+- LeetCode: https://leetcode.com/u/saigowtham_2005/
+
+---
+⭐ Thanks for visiting my profile!
